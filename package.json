@@ -1,0 +1,23 @@
+{
+  "name": "cli-usage",
+  "version": "0.1.0",
+  "description": "Easily show CLI usage from a markdown source file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI-Usage",
+    "Markdown",
+    "Usage",
+    "CLI",
+    "Print-Usage"
+  ],
+  "author": "Mikael Brevik",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.2",
+    "minimist": "^0.2.0",
+    "marked-terminal": "^0.1.0"
+  }
+}
