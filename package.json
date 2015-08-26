@@ -1,6 +1,6 @@
 {
   "name": "cli-usage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Easily show CLI usage from a markdown source file",
   "main": "index.js",
   "scripts": {
