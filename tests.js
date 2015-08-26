@@ -20,10 +20,8 @@ describe('cli-usage', function () {
         assert.equal(path.basename(filename), 'file.md');
         return expected;
       };
-
-      assert.equal(usage.get('file.md').trim(), expected);
+      assert.ok(usage.get('file.md').indexOf(expected) !== -1);
     });
 
   });
 });
-
