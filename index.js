@@ -26,7 +26,7 @@ module.exports = function (str) {
 module.exports.get = get;
 
 function get (str) {
-  if (path.extname(str) === '.md') {
+  if (str && path.extname(str) === '.md') {
     return fromFile(path.resolve(path.dirname(argv[1]), str));
   }
 
