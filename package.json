@@ -17,10 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.6",
-    "marked-terminal": "^1.6.2",
-    "mocha": "^3.0.2"
+    "marked-terminal": "^1.6.2"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^3.0.2"
   }
 }
