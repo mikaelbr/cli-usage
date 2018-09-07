@@ -2,6 +2,14 @@
   "name": "cli-usage",
   "version": "0.1.7",
   "description": "Easily show CLI usage from a markdown source file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaelbr/cli-usage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikaelbr/cli-usage/issues"
+  },
+  "homepage": "https://github.com/mikaelbr/cli-usage",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests.js -R spec"
