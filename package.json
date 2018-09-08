@@ -1,6 +1,6 @@
 {
   "name": "cli-usage",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Easily show CLI usage from a markdown source file",
   "repository": {
     "type": "git",
