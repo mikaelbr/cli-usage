@@ -24,10 +24,10 @@
   "author": "Mikael Brevik",
   "license": "MIT",
   "dependencies": {
-    "marked": "^0.6.2",
-    "marked-terminal": "^3.2.0"
+    "marked": "^0.7.0",
+    "marked-terminal": "^3.3.0"
   },
   "devDependencies": {
-    "mocha": "^4.1.0"
+    "mocha": "^6.2.0"
   }
 }
